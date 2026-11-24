@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20in%20Progress-blue?style=for-the-badge" alt="Learning in Progress" />
-  <img src="https://img.shields.io/badge/Focus-System%20Design-orange?style=for-the-badge" alt="System Design" />
-  <img src="https://img.shields.io/badge/Documentation-Notes%20%26%20Diagrams-green?style=for-the-badge" alt="Notes and Diagrams" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20IN%20PROGRESS-30363d?style=for-the-badge&labelColor=21262d&color=30363d" alt="Learning in Progress" />
+  <img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-30363d?style=for-the-badge&labelColor=21262d&color=30363d" alt="System Design" />
+  <img src="https://img.shields.io/badge/DOCUMENTATION-NOTES%20%26%20DIAGRAMS-30363d?style=for-the-badge&labelColor=21262d&color=30363d" alt="Notes and Diagrams" />
 </p>
 
 ---
