@@ -136,7 +136,7 @@ Diagrams and relevant images will be added alongside the concepts as we learn th
 
 ---
 
-## 🧠 Learning Approach
+##  🧠  Learning Approach
 
 For each concept, the aim is to understand:
 
