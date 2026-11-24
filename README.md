@@ -1,34 +1,34 @@
 # 🚀 System Design Learning
 
 <p align="center">
-  <strong>My journey from System Design fundamentals to scalable, reliable and distributed systems.</strong>
+  <strong>Learning System Design from Fundamentals to Scalable Architecture</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20in%20Progress-blue?style=for-the-badge" alt="Learning in Progress" />
   <img src="https://img.shields.io/badge/Focus-System%20Design-orange?style=for-the-badge" alt="System Design" />
-  <img src="https://img.shields.io/badge/Notes-Daily-green?style=for-the-badge" alt="Daily Notes" />
+  <img src="https://img.shields.io/badge/Documentation-Notes%20%26%20Diagrams-green?style=for-the-badge" alt="Notes and Diagrams" />
 </p>
 
 ---
 
 ## 📌 About This Repository
 
-Welcome to my **System Design Learning Repository**!
+Welcome to **System Design Learning**!
 
-This repository documents my journey of learning System Design from the basics. I am building my understanding step by step through lectures, notes, architecture diagrams, practical examples, and real-world system design problems.
+This repository documents our journey of learning System Design from the basics. It will contain concepts, technical notes, architecture diagrams, practical examples, and real-world system design problems as we progress through the learning process.
 
-The goal is not just to learn theoretical concepts, but to understand **how real-world applications are designed to handle users, data, traffic, failures, and growth.**
+The objective is to understand how modern software applications are designed to handle increasing users, growing data, network communication, failures, and changing requirements.
 
 ### 🎯 Goals
 
 - Understand the fundamentals of System Design.
-- Learn how clients, servers, databases, caches, and APIs work together.
-- Understand scalability, availability, reliability, and performance.
-- Explore SQL and NoSQL databases, caching, and load balancing.
+- Learn how clients, servers, databases, caches, and APIs interact.
+- Explore scalability, availability, reliability, and performance.
+- Understand SQL and NoSQL databases, caching, and load balancing.
 - Learn distributed systems and their fundamental trade-offs.
-- Design real-world applications through practical case studies.
-- Maintain clear notes and diagrams for future revision and interviews.
+- Practice designing real-world applications.
+- Maintain clear technical notes and architecture diagrams for revision.
 
 ---
 
@@ -54,13 +54,13 @@ flowchart TD
     style R fill:#dbeafe,stroke:#2563eb,color:#111827
 ```
 
-*This is a simplified conceptual diagram. Actual architectures vary depending on the application and its requirements.*
+*This is a simplified conceptual diagram. Actual architectures depend on application requirements.*
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗺️ System Design Roadmap
 
-The following roadmap represents the topics I plan to explore progressively. I will update the progress as I study each topic.
+The following roadmap outlines the concepts we plan to explore progressively.
 
 - [ ] **01. Introduction to System Design**
   - Purpose and importance of System Design
@@ -70,26 +70,25 @@ The following roadmap represents the topics I plan to explore progressively. I w
 
 - [ ] **02. Application Types and Requirements**
   - Data-intensive vs. compute-intensive applications
-  - Functional requirements
-  - Non-functional requirements
+  - Functional and non-functional requirements
   - Scalability, availability, reliability, and latency
 
 - [ ] **03. Networking and APIs**
   - DNS and domain resolution
-  - HTTP and HTTPS fundamentals
+  - HTTP and HTTPS
   - REST APIs
-  - GraphQL basics
+  - GraphQL fundamentals
   - gRPC fundamentals
 
 - [ ] **04. Databases and Storage**
   - SQL vs. NoSQL
   - Relational and non-relational databases
   - Database indexes
-  - Database replication
-  - Database partitioning and sharding
+  - Replication
+  - Partitioning and sharding
 
 - [ ] **05. Caching and Load Balancing**
-  - What is caching?
+  - Caching fundamentals
   - Cache strategies and invalidation
   - Redis fundamentals
   - Load balancing
@@ -107,7 +106,7 @@ The following roadmap represents the topics I plan to explore progressively. I w
   - Message queues
   - Event-driven architecture
   - Logging, metrics, and monitoring
-  - Handling failures and retries
+  - Retries and failure handling
 
 - [ ] **08. Practical System Design**
   - URL Shortener
@@ -120,28 +119,13 @@ The following roadmap represents the topics I plan to explore progressively. I w
 
 ---
 
-## 📚 Daily Learning Notes
+## 🖼️ Architecture and Visual Learning
 
-This section will grow as I progress through the course.
+Visual diagrams help explain how components communicate and how data flows through a system.
 
-| Session | Topics | Status |
-|---|---|---|
-| Day 01 | Introduction to System Design and concepts covered in the initial lecture | 🟡 In Progress |
-| Day 02+ | Upcoming lecture notes and concepts | ⏳ Planned |
+This repository will gradually include architecture diagrams covering:
 
-Detailed notes, explanations, examples, and diagrams will be maintained in the [`Notes`](./Notes/) directory.
-
-> Progress will be updated only after studying and understanding the corresponding topics.
-
----
-
-## 🖼️ Architecture Diagrams
-
-Visual diagrams help explain how different components of a system communicate with one another.
-
-As I progress, this repository will include diagrams for:
-
-- Client-server architecture
+- Client-server communication
 - Request-response lifecycle
 - Database architecture
 - Caching layers
@@ -149,49 +133,47 @@ As I progress, this repository will include diagrams for:
 - Distributed systems
 - Real-world application architectures
 
-Diagrams will be added progressively alongside the relevant notes.
+Diagrams and relevant images will be added alongside the concepts as we learn them.
 
 ---
 
-## 🧠 How I Study Each Concept
+## 🧠 Learning Approach
 
-For every major topic, I aim to document:
+For each concept, the aim is to understand:
 
-1. **Definition:** What is the concept?
-2. **Purpose:** Why do we need it?
-3. **Working:** How does it work internally?
-4. **Diagram:** How do the components interact?
-5. **Example:** Where is it used in real applications?
+1. **Definition:** What is it?
+2. **Purpose:** Why is it needed?
+3. **Working:** How does it work?
+4. **Architecture:** How do the components interact?
+5. **Practical Examples:** Where is it used?
 6. **Trade-offs:** What are its advantages and limitations?
-7. **Revision:** Key takeaways and questions to revisit.
+7. **Revision:** What are the key takeaways?
+
+The focus is on understanding concepts step by step rather than simply memorizing definitions.
 
 ---
 
-## 🛠️ Tools and Resources
+## 👥 Contributors
 
-- **GitHub:** Maintaining notes, diagrams, and learning progress.
-- **Markdown:** Writing structured technical documentation.
-- **Mermaid:** Creating architecture and flow diagrams directly in Markdown.
-- **System Design courses and documentation:** Understanding concepts through lectures and further reading.
+Thanks to everyone contributing to this learning journey!
 
-Useful learning resources:
-
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [Mermaid Documentation](https://mermaid.js.org/)
-
----
-
-## 📈 My Learning Philosophy
-
-> Learn the fundamentals. Understand the trade-offs. Visualize the architecture. Apply the concepts to real-world problems.
-
-This is an evolving learning repository, not a collection of topics marked complete without understanding them.
-
-I will keep improving it with daily notes, diagrams, examples, and practical system design exercises.
+<table>
+  <tr>
+    <td align="center">
+      <strong>Sakshi Kumari</strong>
+      <br />
+      Contributor
+    </td>
+    <td align="center">
+      <strong>Prem Kumar Gupta</strong>
+      <br />
+      Contributor
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <strong>Building my System Design knowledge one concept at a time. 🚀</strong>
+  <strong>Learning, Designing, and Growing — One Concept at a Time. 🚀</strong>
 </p>
