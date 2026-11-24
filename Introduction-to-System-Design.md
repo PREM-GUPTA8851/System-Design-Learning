@@ -1,7 +1,5 @@
-# Day 01: Introduction to System Design
+# Introduction to System Design
 
-> **Learning source:** System Design introductory lecture
-> **Status:** Learning in Progress
 > **Focus:** System Design fundamentals, architecture components, scaling, and application types
 
 ---
