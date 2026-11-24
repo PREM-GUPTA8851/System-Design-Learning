@@ -155,22 +155,10 @@ The focus is on understanding concepts step by step rather than simply memorizin
 
 ## 👥 Contributors
 
-Thanks to everyone contributing to this learning journey!
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Sakshi Kumari</strong>
-      <br />
-      Contributor
-    </td>
-    <td align="center">
-      <strong>Prem Kumar Gupta</strong>
-      <br />
-      Contributor
-    </td>
-  </tr>
-</table>
+| Name | Role |
+|---|---|
+| Sakshi Kumari | Contributor |
+| Prem Kumar Gupta | Contributor |
 
 ---
 
